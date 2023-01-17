@@ -1,0 +1,41 @@
+.a{
+	background-color: green;
+	background-image: url('https://th.bing.com/th/id/OIP.taFeCb9whPYgGMgh4osi3gHaEo?w=229&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7');
+}
+.d-block w-100 {
+	height: 50%;
+	width: 50%;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+img{
+	height: 500px;
+	width: 260px;
+	border-radius: 3px;
+	padding: 50px;
+
+}
+.container{
+	display: flex;
+	justify-content: center;
+	height: 100vh;
+	align-items: center;
+}
+.card{
+	height: 500px;
+	margin: 50px;
+	box-shadow: 5px 5px 30px black;
+	
+}
+.intro{
+	height: 200px;
+	width: 400px;
+	padding: 20px;
+	box-sizing: border-box;
+	}
+h1{
+	color: palevioletred;
+}
